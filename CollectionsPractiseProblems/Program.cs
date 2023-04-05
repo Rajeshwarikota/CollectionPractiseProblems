@@ -11,6 +11,7 @@ namespace CollectionsPractiseProblems
         static void Main(string[] args)
         {
             Console.WriteLine("....Collections....");
+            Chaper.Page();
             Console.ReadLine();
         }
     }
