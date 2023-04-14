@@ -11,7 +11,8 @@ namespace CollectionsPractiseProblems
         static void Main(string[] args)
         {
             Console.WriteLine("....Collections....");
-            Chaper.Page();
+            //Chaper.Page();
+            MaximumSellingPrice.FindindMaxPrice();
             Console.ReadLine();
         }
     }
